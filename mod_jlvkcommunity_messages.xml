@@ -37,8 +37,8 @@
 				<option value="120000">MOD_JLVKCOMMUNITY_MESSAGES_120S</option>
 			</field>
 			<field name="widgetPosition" type="radio" label="MOD_JLVKCOMMUNITY_MESSAGES_POSITION" default="right" class="btn-group btn-group-yesno">
-				<option value="right">MOD_JLVKCOMMUNITY_MESSAGES_LEFT</option>
-				<option value="left">MOD_JLVKCOMMUNITY_MESSAGES_RIGHT</option>
+				<option value="right">MOD_JLVKCOMMUNITY_MESSAGES_RIGHT</option>
+				<option value="left">MOD_JLVKCOMMUNITY_MESSAGES_LEFT</option>
 			</field>
 			<field name="disableButtonTooltip" type="radio" label="MOD_JLVKCOMMUNITY_MESSAGES_HINT" default="1" class="btn-group btn-group-yesno">
 				<option value="0">MOD_JLVKCOMMUNITY_MESSAGES_NO</option>
