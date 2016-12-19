@@ -14,6 +14,7 @@ defined('_JEXEC') or die('Restricted access');
 require_once dirname(__FILE__) . '/helper.php';
 
 $group_id                = $params->get('group_id');
+$moduleclass_sfx         = $params->get('moduleclass_sfx');
 $mode                    = $params->get('mode');
 $link                    = $params->get('link');
 $linknone                = '';
