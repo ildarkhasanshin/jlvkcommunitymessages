@@ -7,7 +7,7 @@
   <authorUrl>http://www.joomline.net</authorUrl>
   <copyright>Copyright 2016 JoomLine.net All rights reserved!</copyright>
   <license>license GNU/GPL: http://www.gnu.org/copyleft/gpl.html </license>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <description>MOD_JLVKCOMMUNITY_MESSAGES_XML_DESCRIPTION</description>
   <files>
     <filename module="mod_jlvkcommunity_messages">mod_jlvkcommunity_messages.php</filename>

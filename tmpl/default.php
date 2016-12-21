@@ -2,7 +2,7 @@
  /**
  * @package jlvkcommunity_messages
  * @author Kunicin Vadim (vadim@joomline.ru)
- * @version 1.0.0
+ * @version 1.0.1
  * @copyright (C) 2016 by JoomLine (http://www.joomline.net)
  * @license GNU/GPL: http://www.gnu.org/copyleft/gpl.html
  *
