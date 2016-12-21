@@ -35,7 +35,7 @@
           <option value="60000">MOD_JLVKCOMMUNITY_MESSAGES_60S</option>
           <option value="120000">MOD_JLVKCOMMUNITY_MESSAGES_120S</option>
         </field>
-        <field name="addVkApi" type="radio" label="MOD_JLVKCOMMUNITY_MESSAGES_VKAPI" default="1" class="btn-group btn-group-yesno">
+        <field name="addVkApi" type="radio" label="MOD_JLVKCOMMUNITY_MESSAGES_VKAPI" default="1" description="MOD_JLVKCOMMUNITY_MESSAGES_VKAPI_TIP" class="btn-group btn-group-yesno">
           <option value="0">MOD_JLVKCOMMUNITY_MESSAGES_NO</option>
           <option value="1">MOD_JLVKCOMMUNITY_MESSAGES_YES</option>
         </field>
