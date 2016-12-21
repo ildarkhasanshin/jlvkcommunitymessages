@@ -25,6 +25,7 @@ $disableExpandChatSound  = $params->get('disableExpandChatSound');
 $disableTitleChange      = $params->get('$disableTitleChange');
 $widgetPosition          = $params->get('widgetPosition');
 $expanded                = $params->get('expanded');
+$addVkApi                = $params->get('addVkApi');
 
 if ($link == 0) {
   $linknone = '<div style="text-align: right;"><a href="http://afisha-msk.ru/" target="_blank" style="text-decoration:none; color: #c0c0c0; font-family: arial,helvetica,sans-serif; font-size: 5pt; ">afisha-msk.ru</a></div>';
